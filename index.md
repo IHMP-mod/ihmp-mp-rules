@@ -1,7 +1,6 @@
 ## A. GENERAL RULES
 1. Wars can only be started via NF until two majors are at war with each other (this includes France as a major but not China).
 1. The Western Allies and Soviets may not give each other military access. They are a team, but only in the sense of "the enemy of my enemy."  However, if the Axis invade any neutral that borders the Soviet Union except Poland, the minor will join the Allies.  In this case, the Soviets may obtain military access from that minor so they can help defend it. This does not allow the Soviets to stack units in the same province with either UK or US for joint defense. (Countries potentially affected by this are Sweden, Turkey and Persia.)
-1. Countries may not exert political pressure on human opponents to change their alignment or prepare a coup against them.
 1. If one or more minors are being played by a human player, they may not have more than 33% of MIC on aircraft production, nor more than 33% of MIC on tank/mech production (in-game production categories).
 1. If a human player is controlling China, no Lend Lease may be sent to China, unless Japan declares war on the USSR.  In this case, the Soviet player may send Lend Lease to China, but even no more than 10%/month of the Soviet’s output of anything.
 1. NAVs and Kamikazes must have a wing size of 100.
