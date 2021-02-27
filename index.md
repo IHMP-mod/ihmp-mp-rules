@@ -13,6 +13,7 @@
 1. In order to realistically represent convoys routes, the UK may receive basing rights from the USSR, if both are at war with a common enemy.
 1. When using Grand Battle Plan land doctrine, any received expeditionary forces must not be used with more planning bonus than that which is ordinarily available to the nation sending the expeditionary troops.
 1. The UK player may take control of all French divisions when Germany declares war on Poland. French divisions must stay in the continent they were located at the time they come under UK control. That is, African troops stay in Africa and continental France troops stay in Europe. If any French units leave France, the UK must return all divisions to France before Paris falls and France capitulates.
+1. Fuel LL must only be senth using 'monthly' option.
 ## B. WARS – DOWs, FACTIONS & ANNEXATIONS
 1. If during the Winter War Finland asks to join either the Allies or the Axis, their request must be declined.
 1. The Axis may not invade and annex the traditional Axis minor allies, i.e. Hungary, Romania, and Bulgaria, unless those countries change alignment to something other than fascist or non-aligned or if they join a faction other than the Axis.
