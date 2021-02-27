@@ -16,7 +16,7 @@
 1. The UK player may take control of all French divisions when Germany declares war on Poland. French divisions must stay in the continent they were located at the time they come under UK control. That is, African troops stay in Africa and continental France troops stay in Europe. If any French units leave France, the UK must return all divisions to France before Paris falls and France capitulates.
 ## B. WARS – DOWs, FACTIONS & ANNEXATIONS
 1. If during the Winter War Finland asks to join either the Allies or the Axis, their request must be declined.
-1. The Axis may not invade and annex the traditional Axis minor allies, i.e. Hungary, Romania, and Bulgaria, unless those countries change alignment to something other than fascist (or non-aligned, which is how Romania begins the game). The same is true if one of those minors joins a faction other than the Axis.
+1. The Axis may not invade and annex the traditional Axis minor allies, i.e. Hungary, Romania, and Bulgaria, unless those countries change alignment to something other than fascist or non-aligned or if they join a faction other than the Axis.
 1. All minor allies and puppets must be called into all wars, both offensive and defensive.
 ## C. GERMAN & ALLIED FORTS
 1. No forts may be built on either side of the Franco-Belgian border until the first spring or summer after France and Germany are at war with each other (“spring” = 4th week of March through 3rd week of June; “summer” = 4th week of June through 3rd week of September).
@@ -34,4 +34,4 @@
 ### 4. GERMANY & THE USSR
 1. If the Republicans win the SCW and if the Soviets subsequently guarantee them, then Spain may not be attacked until the USSR is at war with Germany.  However, if Republican Spain is guaranteed by the USSR and joins the Comintern, then it is permitted attack them first, since it will still result in war with the USSR.  If the Nationalists win the SCW, then the Axis may not invade Spain at all.  They must either persuade them to join the Axis or leave them as a friendly but neutral neighbor.
 1. Prior to war with Germany, Soviet aggressions are limited to those countries for which they get claims in the M-R Pact. In those cases, the USSR must first deliver the ultimatum to gain the claimed states and may only go to war if the ultimatum is refused.  Per rule #1, they may also start any wars that are allowed by NFs.
-1. If the Soviets make a NAP with Japan, see rule #19.
+1. If the Soviets make a NAP with Japan, see rule Section D.1.
