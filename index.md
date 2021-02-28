@@ -1,3 +1,4 @@
+# IHMP MP Group House Rules
 ## A. GENERAL RULES
 1. Wars can only be started via NF until two majors are at war with each other (this includes France as a major but not China).
 1. The Western Allies and Soviets may not give each other military access. They are a team, but only in the sense of "the enemy of my enemy."  However, if the Axis invade any neutral that borders the Soviet Union except Poland, the minor will join the Allies.  In this case, the Soviets may obtain military access from that minor so they can help defend it. This does not allow the Soviets to stack units in the same province with either UK or US for joint defense. (Countries potentially affected by this are Sweden, Turkey and Persia.)
