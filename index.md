@@ -35,3 +35,8 @@
 1. If the Republicans win the SCW and if the Soviets subsequently guarantee them, then Spain may not be attacked until the USSR is at war with Germany.  However, if Republican Spain is guaranteed by the USSR and joins the Comintern, then it is permitted attack them first, since it will still result in war with the USSR.  If the Nationalists win the SCW, then the Axis may not invade Spain at all.  They must either persuade them to join the Axis or leave them as a friendly but neutral neighbor.
 1. Prior to war with Germany, Soviet aggressions are limited to those countries for which they get claims in the M-R Pact. In those cases, the USSR must first deliver the ultimatum to gain the claimed states and may only go to war if the ultimatum is refused.  Per rule #1, they may also start any wars that are allowed by NFs.
 1. If the Soviets make a NAP with Japan, see rule Section D.1.
+## E. APPENDIX
+### 1. Rules integrated directly into IHMP
+1. Unless stated otherwise, all rules in this section are enabled when IHMP ahistorical NF rule is DISABLED
+1. If Germany offers the research treaty to the Soviets, acceptance by the Soviets is optional.  However, if it is accepted then the M-R Pact must also be offered and accepted.  If the first treaty is rejected by the Soviets, then the M-R Pact becomes optional for both countries.
+1. The Allies may not act against the reoccupation of the Rhineland or the partitioning of Czechoslovakia.
