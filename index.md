@@ -27,10 +27,15 @@
 ### 2. ITALY
 1. With two exceptions, Italian fleets and TF’s may not leave the Mediterranean Sea until either Gibraltar or Suez is taken by the Axis.  The first exception is submarines, which can operate anywhere within their range. The second exception is that Italy may station one TF in East Africa, consisting of no more than 10 screens (DDs and CLs).
 ### 3. USA
-1. The USA may not place more than 1 division on any of their smaller Pacific islands during peace time (that is, anywhere except Hawaii).
-1. Prior to entering the war, the USA may not build more than 3 divisions for placement in the Philippines, using either American or Filipino templates. Also, the USA may not send the Philippines any Lend-Lease shipments before entering the war.
-1. Regardless of WT or other considerations, the USA may immediately join the Allies if Moscow falls or if any port on the island of Great Britain is captured.
-1. On 1/1/42, the USA is freed of all restrictions and may enter any and all existing wars either via invitation to faction or by using war plan NFs.
+1. The USA may not place more than 1 division on any of their owned small Pacific islands during peace time (that is, anywhere except Hawaii).
+1. Prior to entering the war, the USA may not build more than 3 divisions for placement in the Philippines using American templates.
+1. Total amount of American or Philippine divisions stationed in the Philippines may not exceed 15 before entering the war.
+1. USA may not send the Philippines any Lend-Lease shipments before entering the war.
+1. Regardless of WT or other considerations, the USA may immediately join the Allies if:
+    * Moscow falls.
+    * Any port on the British Isles is captured.
+    * If Japan is in an offensive war with the Allies.
+1. On 1/1/42, the USA is freed of all restrictions and may enter any and all existing wars.
 ### 4. GERMANY & THE USSR
 1. If the Republicans win the SCW and if the Soviets subsequently guarantee them, then Spain may not be attacked until the USSR is at war with Germany.  However, if Republican Spain is guaranteed by the USSR and joins the Comintern, then it is permitted attack them first, since it will still result in war with the USSR.  If the Nationalists win the SCW, then the Axis may not invade Spain at all.  They must either persuade them to join the Axis or leave them as a friendly but neutral neighbor.
 1. Prior to war with Germany, Soviet aggressions are limited to those countries for which they get claims in the M-R Pact. In those cases, the USSR must first deliver the ultimatum to gain the claimed states and may only go to war if the ultimatum is refused.  Per rule #1, they may also start any wars that are allowed by NFs.
