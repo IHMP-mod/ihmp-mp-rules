@@ -4,7 +4,7 @@
 1. The Western Allies and Soviets may not give each other military access. They are a team, but only in the sense of "the enemy of my enemy."  However, if the Axis invade any neutral that borders the Soviet Union except Poland, the minor will join the Allies.  In this case, the Soviets may obtain military access from that minor so they can help defend it. This does not allow the Soviets to stack units in the same province with either UK or US for joint defense. (Countries potentially affected by this are Sweden, Turkey and Persia.)
 1. If one or more minors are being played by a human player, they may not have more than 33% of MIC on aircraft production, nor more than 33% of MIC on tank/mech production (in-game production categories).
 1. If a human player is controlling China, no Lend Lease may be sent to China, unless Japan declares war on the USSR.  In this case, the Soviet player may send Lend Lease to China, but even no more than 10%/month of the Soviet’s output of anything.
-1. When lend leasing fuel, only the monthly option is allowed.
+1. When lend leasing fuel, only the monthly and percentage of production option is allowed.
 1. NAVs and Kamikazes must have a wing size of 100.
 1. Ship refits may not fill empty slots with new modules that consume resources.
 1. The maximum number of paratroop divisions that any country may deploy is limited to that country's level of paratroop technology, with 2 divisions permitted per tech level. Therefore 2 divisions are permitted at level 1, 4 divisions at level 2, etc.
