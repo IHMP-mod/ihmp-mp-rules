@@ -36,7 +36,7 @@
 1. Regardless of WT or other considerations, the USA may immediately join the Allies if:
     * Moscow falls.
     * Any port on the British Isles is captured.
-    * If Japan is in an offensive war with the Allies.
+    * If Japan is in an offensive war with the Allies or the Soviet Union.
 1. On 1/1/42, the USA is freed of all restrictions and may enter any and all existing wars.
 ### 4. GERMANY & THE USSR
 1. If the Republicans win the SCW and if the Soviets subsequently guarantee them, then Spain may not be attacked until the USSR is at war with Germany.  However, if Republican Spain is guaranteed by the USSR and joins the Comintern, then it is permitted attack them first, since it will still result in war with the USSR.  If the Nationalists win the SCW, then the Axis may not invade Spain at all.  They must either persuade them to join the Axis or leave them as a friendly but neutral neighbor.
