@@ -7,7 +7,7 @@
 1. Soviet land volunteers to China are not allowed, only air volunteers.
 1. When lend leasing fuel, only the monthly and percentage of production option is allowed.
 1. NAVs and Kamikazes must have a wing size of 100.
-1. Ship refits may not fill empty slots with new modules that consume resources.
+1. Ship refits may not fill empty slots with new modules that consume resources. Note this includes modules like light-medium guns, which cost 0.5 resources.
 1. The maximum number of paratroop divisions that any country may deploy is limited to that country's level of paratroop technology, with 2 divisions permitted per tech level. Therefore 2 divisions are permitted at level 1, 4 divisions at level 2, etc.
 1. Mines may not be laid by any country until it is at war with a major power (i.e., US, UK, USSR, Italy, Japan, Germany, and France until its capitulation). Once at war, mines may only be laid according to the following criteria:
     * Mines may be laid off the coast of a hostile nation and in sea zones with no coastline at any time. 
